@@ -1,11 +1,11 @@
 // ignore_for_file: deprecated_member_use
 
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_flutter/home_screen.dart';
-import 'package:firebase_flutter/login_email.dart';
+import 'home_screen.dart';
+import 'login_email.dart';
 import 'package:flutter/material.dart';
-import 'package:firebase_flutter/sign_in.dart';
-import 'package:firebase_flutter/first_screen.dart';
+import 'sign_in.dart';
+import 'first_screen.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({Key? key}) : super(key: key);

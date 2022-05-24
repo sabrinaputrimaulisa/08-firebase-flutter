@@ -1,8 +1,8 @@
 // ignore_for_file: deprecated_member_use
 
 import 'package:flutter/material.dart';
-import 'package:firebase_flutter/login_page.dart';
-import 'package:firebase_flutter/sign_in.dart';
+import 'login_page.dart';
+import 'sign_in.dart';
 
 class FirstScreen extends StatelessWidget {
   const FirstScreen({Key? key}) : super(key: key);

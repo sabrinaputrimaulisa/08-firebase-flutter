@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Home -  Nurul Huda(2031710061)'),
+        title: const Text('Home || SABRINA PUTRI MAULISA'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(32),
